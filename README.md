@@ -110,11 +110,11 @@ This modular structure keeps the pipeline easy to extend and maintain.
 
 ### Airflow DAG
 
-![Airflow DAG](Screenshots/dag.png)
+![Airflow DAG](Screenshots/Screenshot 2025-12-15 025828.png)
 
 ### Pipeline Execution
 
-![Pipeline Run](Screenshots/pipeline_run.png)
+![Pipeline Run](Screenshots/Screenshot 2025-12-15 034641.png)
 
 ---
 
